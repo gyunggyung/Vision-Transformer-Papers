@@ -50,7 +50,7 @@
 
 ## Papers
 
-- [2020/10] **[An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](https://arxiv.org/abs/2010.11929v2.pdf)**    
+- [2020/10] **[An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](https://arxiv.org/abs/2010.11929v2.pdf)**: *ViT*
 - [2019/08] **[VISUALBERT: A SIMPLE AND PERFORMANT BASELINE FOR VISION AND LANGUAGE](https://arxiv.org/abs/2010.11929v2.pdf)**: *VISUALBERT*
 - [2021/08] : [Boosting Salient Object Detection with Transformer-based Asymmetric Bilateral U-Net](https://arxiv.org/pdf/2108.07851v2.pdf): *U-Net*
 - [2021/03] : [Dynamic Feature Regularized Loss for Weakly Supervised Semantic Segmentation](https://arxiv.org/pdf/2108.01296v1.pdf)
