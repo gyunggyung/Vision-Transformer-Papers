@@ -61,9 +61,8 @@
 - [2021/06] **[PVTv2: Improved Baselines with Pyramid Vision Transformer](https://arxiv.org/pdf/2106.13797v4.pdf)**: *PVTv2*
 - [2021/01] **[Tokens-to-Token ViT: Training Vision Transformers from Scratch on ImageNet](https://arxiv.org/pdf/2101.11986v2.pdf)**: *Tokens-to-Token ViT*
 - [2021/04] **[Emerging Properties in Self-Supervised Vision Transformers](https://arxiv.org/pdf/2104.14294v2.pdf)**
-- [] : **[]()**: **
-
-
+- [2021/06] **[BEiT: BERT Pre-Training of Image Transformers](https://arxiv.org/pdf/2106.08254v1.pdf)**: *BEiT*
+- [] **[]()**: **
 
 
 ## Reference
