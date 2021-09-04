@@ -62,6 +62,12 @@
 - [2021/01] **[Tokens-to-Token ViT: Training Vision Transformers from Scratch on ImageNet](https://arxiv.org/pdf/2101.11986v2.pdf)**: *Tokens-to-Token ViT*
 - [2021/04] **[Emerging Properties in Self-Supervised Vision Transformers](https://arxiv.org/pdf/2104.14294v2.pdf)**
 - [2021/06] **[BEiT: BERT Pre-Training of Image Transformers](https://arxiv.org/pdf/2106.08254v1.pdf)**: *BEiT*
+- [2021/03] **[Vision Transformers for Dense Prediction](https://arxiv.org/pdf/2103.13413v1.pdf)**
+- [2021/02] **[TransReID: Transformer-based Object Re-Identification](https://arxiv.org/pdf/2102.04378v2.pdf)**: *TransReID*
+- [2021/04] **[All Tokens Matter: Token Labeling for Training Better Vision Transformers](https://arxiv.org/pdf/2104.10858v3.pdf)**: **
+- [2021/07] **[AutoFormer: Searching Transformers for Visual Recognition](https://arxiv.org/pdf/2107.00651v1.pdf)**: *AutoFormer*
+- [2021/04] **[Twins: Revisiting the Design of Spatial Attention in Vision Transformers](https://arxiv.org/pdf/2104.13840v3.pdf)**: *Twins*
+- [2020/05] **[Hierarchical Multi-Scale Attention for Semantic Segmentation](https://arxiv.org/pdf/2005.10821v1.pdf)**
 - [] **[]()**: **
 
 
