@@ -67,7 +67,7 @@
 - [2021/04] **[All Tokens Matter: Token Labeling for Training Better Vision Transformers](https://arxiv.org/pdf/2104.10858v3.pdf)**: **
 - [2021/07] **[AutoFormer: Searching Transformers for Visual Recognition](https://arxiv.org/pdf/2107.00651v1.pdf)**: *AutoFormer*
 - [2021/04] **[Twins: Revisiting the Design of Spatial Attention in Vision Transformers](https://arxiv.org/pdf/2104.13840v3.pdf)**: *Twins*
-- [2021/06] **[You Only Look at One Sequence: Rethinking Transformer in Vision through Object Detection](https://arxiv.org/pdf/2106.00666v2.pdf)**: **
+- [2021/06] **[You Only Look at One Sequence: Rethinking Transformer in Vision through Object Detection](https://arxiv.org/pdf/2106.00666v2.pdf)**
 
 - [] **[]()**: **
 
